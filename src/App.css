@@ -1,0 +1,85 @@
+.App {
+  text-align: center;
+  /* background: blue; */
+  color: darkcyan;
+  /* display: flax;
+  min-height: 100vh;
+  align-items: center;
+  justify-content: center; */
+}
+
+.minus {
+  color: red;
+}
+
+.plus {
+  color: green;
+}
+
+.counter-container {
+  text-align: center;
+}
+
+/* .calculator {
+  text-align: center;
+  width: 320px;
+  margin: 100px auto;
+  
+  width: 100%;
+  max-width: 400px;
+  background-color: darkgrey;
+  border-radius: 16px; */
+  /* box-shadow: opx 2px 64px rgb(0, 0, 0, 0.2); */
+  /* overflow: hidden; */
+/* } */
+
+/* .display {
+  background-color: black;
+  color: white;
+  border-radius: 16px;
+
+} */
+
+#answer {
+  background-color: #e2e2e2;
+  padding: 10px;
+  font-size: 35px;
+  width: 295px;
+  height: 45px;
+  text-align: right;
+  border: 3px solid #333;
+}
+
+/* .numbers {
+  background-color: #333;
+  height: 100px;
+  width: auto;
+  color: white;
+  font-size: 70px;
+  border: 1px solid red;
+  float: auto;
+} */
+
+.btn-cl {
+  background-color: #333;
+  height: 80px;
+  width: 160px;
+  color: white;
+  font-size: 30px;
+  border: 1px solid red;
+  float: left;
+}
+
+.btn-eq {
+  background-color: #333;
+  height: 80px;
+  width: 240px;
+  color: white;
+  font-size: 30px;
+  border: 1px solid red;
+  float: left;
+}
+
+.nav-btn {
+  display: flex;
+}
